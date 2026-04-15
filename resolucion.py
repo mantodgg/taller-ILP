@@ -173,7 +173,8 @@ print("C4 =", res4.x[11])
 print("D1 =", res4.x[12])
 print("D2 =", res4.x[13])
 print("D3 =", res4.x[14])
-print("D4 =", res4.x[15]) #
+print("D4 =", res4.x[15]) 
+# 1 significa que se el asigno el trabajo. si A1 = 1, entonces significa que la persona 1 consiguio el empleo A.
 
 
 
